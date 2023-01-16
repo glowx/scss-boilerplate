@@ -8,3 +8,12 @@
 :focus {
   outline: none !important;
 }
+
+a {
+  text-decoration: none;
+
+  &:visited,
+  &:hover {
+    text-decoration: none;
+  }
+}
