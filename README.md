@@ -6,6 +6,8 @@ This is a sample project using the [7-1 architecture pattern](https://sass-guide
 
 Check out: [https://github.com/glowx/scss-boilerplate/tree/bootstrap](https://github.com/glowx/scss-boilerplate/tree/bootstrap)
 
+Works with the latest version of **Bootstrap v5.3**.
+
 ## File structure
 
 ```
