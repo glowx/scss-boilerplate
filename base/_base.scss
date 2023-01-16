@@ -1,0 +1,19 @@
+// This file contains very basic styles.
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:focus {
+  outline: none !important;
+}
+
+a {
+  text-decoration: none;
+
+  &:hover,
+  &:visited {
+    text-decoration: none;
+  }
+}

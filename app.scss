@@ -1,0 +1,40 @@
+// 1. Functions and variables
+@import 'abstracts/functions';
+@import 'abstracts/colors';
+@import 'abstracts/colors-dark';
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+
+// 2. Vendors
+
+// 3. Base stuff
+@import 'base/base';
+@import 'base/grid';
+@import 'base/spacing';
+@import 'base/typography';
+@import 'base/helpers';
+
+// 4. Layout-related sections
+@import 'layout/main';
+@import 'layout/header';
+@import 'layout/footer';
+@import 'layout/sidebar';
+
+// 5. Components
+@import 'components/buttons';
+@import 'components/forms';
+@import 'components/modal';
+@import 'components/card';
+@import 'components/alert';
+@import 'components/dropdown';
+@import 'components/spinners';
+@import 'components/tables';
+@import 'components/close';
+
+// 6. Page-specific styles
+@import 'pages/common';
+@import 'pages/home';
+
+// 7. Themes
+@import 'themes/light';
+@import 'themes/dark';
