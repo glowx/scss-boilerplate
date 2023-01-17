@@ -25,7 +25,6 @@ Works with the latest version of **Bootstrap v5.3**.
 │   ├── _alert.scss
 │   ├── _buttons.scss
 │   ├── _card.scss
-│   ├── _close.scss
 │   ├── _dropdown.scss
 │   ├── _forms.scss
 │   ├── _modal.scss
