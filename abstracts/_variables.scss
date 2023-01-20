@@ -5,6 +5,10 @@
 // See https://www.w3.org/TR/WCAG20/#visual-audio-contrast-contrast
 $min-contrast-ratio: 3 !default;
 
+$prefix: bs- !default;
+
+$border-radius: .5rem !default;
+
 // Button focus border width and box shadow
 $input-btn-focus-width: 0;
 $input-btn-focus-box-shadow: 0;
